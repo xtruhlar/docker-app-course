@@ -1,1 +1,1 @@
-# docker-app-course
+Docker application - LinkedIn Course
